@@ -38,24 +38,26 @@ const BizHaqimizda = () => {
           <h2 className="text-2xl font-semibold mb-3">📱 Bizni ijtimoiy tarmoqlarda kuzating:</h2>
           <ul className="flex items-center gap-6 text-xl">
             <li>
-              <a
-                href="https://instagram.com/topkasb.uz"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-pink-600 transition"
-              >
-                <FaInstagram /> Instagram
-              </a>
+             <a
+  href="https://www.instagram.com/topkasb.wed/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="hover:text-pink-600 transition"
+>
+  <FaInstagram /> Instagram
+</a>
+
             </li>
             <li>
-              <a
-                href="https://t.me/topkasb_uz"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-blue-500 transition"
-              >
-                <FaTelegramPlane /> Telegram
-              </a>
+           <a
+  href="https://t.me/+f4uyhcv5D5pjMmUy"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="hover:text-blue-500 transition"
+>
+  <FaTelegramPlane /> Telegram
+</a>
+
             </li>
             <li>
               <a
